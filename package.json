@@ -1,0 +1,25 @@
+{
+  "name": "knockout-typings-demo",
+  "version": "1.0.0",
+  "description": "Demo of changes to knockout typings in Definitely Typed",
+  "private": true,
+  "scripts": {
+    "test": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MortenHoustonLudvigsen/knockout-typings-demo.git"
+  },
+  "author": "Morten Houston Ludvigsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MortenHoustonLudvigsen/knockout-typings-demo/issues"
+  },
+  "homepage": "https://github.com/MortenHoustonLudvigsen/knockout-typings-demo#readme",
+  "devDependencies": {
+    "typescript": "2.0.0"
+  },
+  "dependencies": {
+    "@types/knockout": "^3.4.41"
+  }
+}
